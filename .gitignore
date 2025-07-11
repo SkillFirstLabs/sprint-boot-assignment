@@ -2,14 +2,11 @@
 .gradle/
 build/
 bin/
-*.class
-*.jar
-*.log
 
 # Eclipse
-.project
+
 .classpath
-.settings/
+
 
 # System
 .DS_Store
