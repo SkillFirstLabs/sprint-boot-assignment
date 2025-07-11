@@ -1,0 +1,16 @@
+# Gradle & Java
+.gradle/
+build/
+bin/
+
+# Eclipse
+
+.classpath
+
+
+# System
+.DS_Store
+Thumbs.db
+
+# Env
+.env
